@@ -12,21 +12,21 @@ Marco general de reproducibilidad y ciencia abierta en investigación psicológi
 
 #### 1.2. Bibliografía sugerida:
 
-- Frank, M. C., Braginsky, M., Cachia, J., Coles, N. A., & Hardwicke, T. E. (2025). Project management. En: *Experimentology: An open science approach to experimental psychology methods*. MIT Press. https://experimentology.io/013-management.html
-- Wickham, H. . (2014). Tidy Data. Journal of Statistical Software, 59(10), 1–23. https://doi.org/10.18637/jss.v059.i10
+- [[PDF]](/Bibliografia/Frank%20et%20al%202025%20-%20Experimentology%20-%20baja%20calidad.pdf) Frank, M. C., Braginsky, M., Cachia, J., Coles, N. A., & Hardwicke, T. E. (2025). Project management. En: *Experimentology: An open science approach to experimental psychology methods*. MIT Press. https://experimentology.io/013-management.html
+- [[PDF]](/Bibliografia/Wickham%202014%20-%20Tidy%20data.pdf) Wickham, H. . (2014). Tidy Data. Journal of Statistical Software, 59(10), 1–23. https://doi.org/10.18637/jss.v059.i10
 
 #### 1.3. Bibliografía complementaria:
 
-- Frank, M. C., Braginsky, M., Cachia, J., Coles, N. A., & Hardwicke, T. E. (2025). Experimentology: An open science approach to experimental psychology methods. MIT Press. https://experimentology.io/
-- Rodrigues, B. (2023). Building reproducible analytical pipelines with R. https://raps-with-r.dev/
+- [[PDF]](/Bibliografia/Frank%20et%20al%202025%20-%20Experimentology%20-%20baja%20calidad.pdf) Frank, M. C., Braginsky, M., Cachia, J., Coles, N. A., & Hardwicke, T. E. (2025). Experimentology: An open science approach to experimental psychology methods. MIT Press. https://experimentology.io/
+- [[PDF]](/Bibliografia/Rodrigues%202023%20-%20RAPS.pdf) Rodrigues, B. (2023). Building reproducible analytical pipelines with R. https://raps-with-r.dev/
 
 ## 2. Proyectos de investigación transparentes, reproducibles y colaborativos con Github y OSF:
 Este encuentro sería más práctico y virtual, de forma que todxs podamos estar trabajando en nuestras compus. Creo que podría ser un encuentro más "opcional", aunque animaría a que participen todxs. El uso de estas dos herramientas es clave para que el camino desde el dato al paper sea más ágil. Tengo varios casos propios para convencerlxs de que está bueno!
 
 #### 2.1. Bibliografía sugerida (incompleta):
 
-- Frank, M. C., Braginsky, M., Cachia, J., Coles, N. A., & Hardwicke, T. E. (2025). Appendix B — Git and GitHub. En: *Experimentology: An open science approach to experimental psychology methods*. MIT Press. https://experimentology.io/101-github.html
-- Rodrigues, B. (2023). Version control with Git. En: *Building reproducible analytical pipelines with R*.
+- [[PDF]](/Bibliografia/Frank%20et%20al%202025%20-%20Experimentology%20-%20baja%20calidad.pdf) Frank, M. C., Braginsky, M., Cachia, J., Coles, N. A., & Hardwicke, T. E. (2025). Appendix B — Git and GitHub. En: *Experimentology: An open science approach to experimental psychology methods*. MIT Press. https://experimentology.io/101-github.html
+- [[PDF]](/Bibliografia/Rodrigues%202023%20-%20RAPS.pdf) Rodrigues, B. (2023). Version control with Git. En: *Building reproducible analytical pipelines with R*.
 
 ## 3. Bases de datos relacionales para proyectos reproducibles:
 Este último encuentro sería presencial/híbrido y contaría con la presencia de Soledad Fernandez del Instituto de Cálculo. La idea es que ella nos cuente sobre las bondades del uso de bases de datos relacionales y de qué forma podríamos conceptualizar nuestro flujo de datos para que acceder y trabajar con ellos sea más sencillo. Este último encuentro es clave para algo que hace rato venimos discutiendo: cómo estandarizar todos los datos que fuimos recabando en la UNA durante todos estos años.
